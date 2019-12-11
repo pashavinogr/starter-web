@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Pavel Vinogradov   pasha    @polltax61
+    Pavel Vinogradov   pavel    @polltax61
 
 # THANKS
 
@@ -16,4 +16,5 @@
     jQuery, Modernizr
 	Git
 
+# Test Cherry Pick
 # Test Cherry Pick
